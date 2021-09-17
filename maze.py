@@ -99,6 +99,7 @@ player = Player()
 
 #create wall coordinate list
 walls = []
+
 #set up maze
 setup_maze(levels[1])
 
